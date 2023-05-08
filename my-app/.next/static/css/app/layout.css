@@ -549,6 +549,14 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.footer {
+  display: flex;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
 .main {
   min-height: 90vh;
   display: flex;
@@ -556,14 +564,6 @@ video {
   justify-content: center;
   align-items: center;
   font-family: 'Courier New', Courier, monospace;
-}
-
-.footer {
-  display: flex;
-  padding: 2rem 0;
-  border-top: 1px solid #eaeaea;
-  justify-content: center;
-  align-items: center;
 }
 
 .image {
